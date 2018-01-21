@@ -38,6 +38,10 @@ Contamos com a presença de todos. Até lá! :bowtie:
 - [newsletters](material/dir/newsletters.md)
 - [sites](material/dir/sites.md)
 
+## Projetos
+
+- [calc-tdd](projects/calc-tdd/)
+
 ## Responsáveis
 
 Caso você precise entrar em contato com as pessoas responsáveis por este grupo de estudos, pode chamar por `@alexsandro-sa` no Slack do Training Center.
