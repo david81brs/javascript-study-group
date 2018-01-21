@@ -40,7 +40,7 @@ Contamos com a presença de todos. Até lá! :bowtie:
 
 ## Projetos
 
-- [calc-tdd](projects/calc-tdd/)
+- [calc-tdd](projects/calc-tdd/README.md)
 
 ## Responsáveis
 
